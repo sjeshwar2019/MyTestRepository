@@ -1,1 +1,5 @@
 Sample text file for Git demo.
+Sample text file for Git demo.
+Sample text file for Git demo.
+Sample text file for Git demo.
+Sample text file for Git demo.
